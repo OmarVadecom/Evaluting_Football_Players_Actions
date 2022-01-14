@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+
+{% block title %}
+Login
+{% endblock %}
+{% load static %}
+
+{% block content %}
+<div class="back" style="width: 100%;top: 0;bottom: 0;">
+  <div class="div-center" style="width: 400px;height: 400px;background-color: #fff;position: absolute;left: 0;right: 0;top: 0;bottom: 0;margin: auto;max-width: 100%;max-height: 100%;overflow: auto;padding: 1em 2em;border-bottom: 2px solid #ccc;display: table;">
+    <div class="content" style="display: table-cell;vertical-align: middle;">
+      <h3>Login</h3>
+      <hr />
+      <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="btn btn-primary">Login</button>
+        <hr />
+       
+      </form>
+    </div>
+    </span>
+  </div>
+{% endblock %}
