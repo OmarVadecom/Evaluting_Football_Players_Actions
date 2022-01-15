@@ -30,6 +30,7 @@
 - Deployment on server <br>
 
 <strong> Technology Used : Django Web Framework - (Django-plotly-dash to render dashboards) - Heroku server </strong>
+![image](https://user-images.githubusercontent.com/19292752/149621345-f0c9dc27-b0f9-474d-8731-d4421bd60a09.png)
 
 
 #### Our main notebook which contains : 
