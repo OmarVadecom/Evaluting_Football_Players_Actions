@@ -12,7 +12,7 @@
     - Some statics for each competitions (total goals, total fouls, ...) <br>
     - Top ten players for each competition <br>
 
-Technology Used : ---
+Technology Used : Python - Dash - Plotly - scikit-learn 
 
 ### Part II:
 1- working on another dataset contains all goals of liverpool club 2019 <br>
@@ -22,11 +22,13 @@ Technology Used : ---
 
 <strong>Note :</strong> this part is just a proof of concept that we can do it for any events available dataset or live matches <br>
 
-Technology Used : ---
+Technology Used : Python - Matplotlib - Moviepy 
 
 ### Part III:
 - build a django application for above parts with a login feature <br>
 - Deployment on server <br>
 
-Technology Used : ---
+Technology Used : Django Web Framework - (Django-plotly-dash to render dashboards) - Heroku server
+
+
 
