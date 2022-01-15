@@ -31,4 +31,6 @@
 <strong> Technology Used : Django Web Framework - (Django-plotly-dash to render dashboards) - Heroku server </strong>
 
 
-
+#### Our main notebook which contains : 
+   -> download datasets, preprocessing, applying XGB model, tuning with randomizedSearch, check Feature Importance, applying another models(Optimized XGB, Logistic regression, random forest) --- <a href='https://github.com/omar1890/Evaluting_Football_Players_Actions/blob/main/django_dash/notebooks/main_notebook_for_vaep_model.ipynb'>View it</a>
+  
