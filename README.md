@@ -24,7 +24,7 @@
 
 <strong>Technology Used : Python - Matplotlib - Moviepy </strong>
 ![image](https://user-images.githubusercontent.com/19292752/149621224-48846ae4-6296-467f-91de-acb0053e18d6.png)
-
+-> as you see a famous goal of origi liverpool's player in barca 2019- a two videos generated (oridnary one - another shows exploited spaces of each player
 ### Part III:
 - build a django application for above parts with a login feature <br>
 - Deployment on server <br>
