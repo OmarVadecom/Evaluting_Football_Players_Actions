@@ -12,8 +12,10 @@
     - Some statics for each competitions (total goals, total fouls, ...) <br>
     - Top ten players for each competition <br>
 
-<strong>Technology Used : Python - Dash - Plotly - scikit-learn </strong>
-
+<strong>Technology Used : Python - Dash - Plotly - scikit-learn - Socceraction package </strong>
+![image](https://user-images.githubusercontent.com/19292752/149628985-44fe23cf-3096-4a60-a905-e7450686b3e6.png)
+a dashboard for some statistics about leaguaes and cups competitions 2018 with top 10 players Ranking based on VAEP model
+ 
 ### Part II:
 1- working on another dataset contains all goals of liverpool club 2019 <br>
 2- generate a 2 video with 2d map for each choosen goal from a select element <br>
