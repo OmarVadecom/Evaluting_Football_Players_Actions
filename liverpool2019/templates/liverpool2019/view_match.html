@@ -1,0 +1,18 @@
+{% extends 'liverpool2019/base.html' %}
+
+{% block title %}
+Home
+{% endblock %}
+
+{% block content %}
+
+<div class="center">
+    <h1>{{match}}</h1>
+    {% if match != 'waiting for choose!' %}
+        <div class="video-container" style="justify-content: center" >
+            {% load static %}
+            <video src="{% static 'liverpool2019/'|add:match|add:'.mp4' %}" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen controls autoplay width='50%' height='40%'>
+        </div>
+    {% endif %}
+</div>
+{% endblock %} 
