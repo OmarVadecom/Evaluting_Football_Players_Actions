@@ -1,5 +1,5 @@
 # Evaluting_Football_Players_Actions
-## Graduation project - from ITI-AI pro diploma - intake 1
+### Graduation project - from ITI-AI pro diploma - intake 1
 ### - Data science project in football analytics with  Wyscout dataset.
 
 ### Part I:
